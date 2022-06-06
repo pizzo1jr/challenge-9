@@ -1,0 +1,7 @@
+node_modules
+<<<<<<< HEAD
+=======
+package-lock.json
+.vscode
+.DS_Store
+>>>>>>> 7bf2ff2 (final commit)
